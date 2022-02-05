@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="clocktiming">
+    <output-path>$PROJECT_DIR$/out/artifacts/clocktiming</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ClockTiming" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.mvc:javax.mvc-api:1.0.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ClockTiming/web/Web" />
+    </root>
+  </artifact>
+</component>
