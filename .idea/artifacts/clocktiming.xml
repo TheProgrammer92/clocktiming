@@ -8,6 +8,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: javax.mvc:javax.mvc-api:1.0.0" />
+          <element id="extracted-dir" path="C:/apache-tomcat-8.5.73/lib/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="ClockTiming/web/Web" />
