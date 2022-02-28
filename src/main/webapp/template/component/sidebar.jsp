@@ -2,14 +2,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 
-<%--
-  Created by IntelliJ IDEA.
-  User: Admin
-  Date: 14/01/2022
-  Time: 11:17
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <nav class="sidenav navbar navbar-vertical  fixed-left  navbar-expand-xs navbar-light bg-white" id="sidenav-main">
   <div class="scrollbar-inner">
     <!-- Brand -->

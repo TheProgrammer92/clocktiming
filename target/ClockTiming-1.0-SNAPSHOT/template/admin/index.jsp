@@ -5,11 +5,10 @@
 
     <jsp:include page="../component/sidebar.jsp" />
 
-
-
     <!-- Main content -->
     <div class="main-content" id="panel">
         <!-- Topnav -->
+
         <jsp:include page="../component/topnav.jsp" />
 
         <!-- Header -->
@@ -17,6 +16,7 @@
         <jsp:include page="../component/header.jsp" />
 
         <!-- Page content -->
+
         <div class="container-fluid mt--6">
             <div class="row">
                 <div class="col-xl-8">
